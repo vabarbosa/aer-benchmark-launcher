@@ -1,3 +1,8 @@
+@import 'carbon-components/scss/globals/scss/styles.scss';
+@import './components/GithubRepoList/GitHubRepoList.scss';
+@import './components/GithubRepoBranch/GitHubRepoBranch.scss';
+@import './components/RunBenchmark/RunBenchmark.scss';
+
 .App {
   text-align: center;
 }
